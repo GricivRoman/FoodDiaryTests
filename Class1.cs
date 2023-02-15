@@ -2,7 +2,7 @@
 
 namespace FoodDiaryTests
 {
-    public class Class1
+    public class Test
     {
 
     }

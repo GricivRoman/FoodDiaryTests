@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiaryTests\\FoodDiaryTests.csproj": {}
+    "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiaryTests\\FoodDiaryTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiaryTests\\FoodDiaryTests.csproj": {
+    "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiaryTests\\FoodDiaryTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiaryTests\\FoodDiaryTests.csproj",
+        "projectUniqueName": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiaryTests\\FoodDiaryTests.csproj",
         "projectName": "FoodDiaryTests",
-        "projectPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiaryTests\\FoodDiaryTests.csproj",
+        "projectPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiaryTests\\FoodDiaryTests.csproj",
         "packagesPath": "C:\\Users\\Lolitochka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiaryTests\\obj\\",
+        "outputPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiaryTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiary\\FoodDiary.csproj": {
-                "projectPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiary\\FoodDiary.csproj"
+              "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiary\\FoodDiary.csproj": {
+                "projectPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiary\\FoodDiary.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiary\\FoodDiary.csproj": {
+    "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiary\\FoodDiary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiary\\FoodDiary.csproj",
+        "projectUniqueName": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiary\\FoodDiary.csproj",
         "projectName": "FoodDiary",
-        "projectPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiary\\FoodDiary.csproj",
+        "projectPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiary\\FoodDiary.csproj",
         "packagesPath": "C:\\Users\\Lolitochka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiary\\obj\\",
+        "outputPath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

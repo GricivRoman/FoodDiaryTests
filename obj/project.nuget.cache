@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yU9FSwemIbtVIH9JetE7UPzTIobTXI2mxETnK+OJnLmCjgFgoSLeZ97l52ZOeOlF0YgCqYFhMd7p5TR4Mv/vKw==",
+  "dgSpecHash": "706ttkAG7I3oYt9yA+EGzI79s/bK1aLQpE/zyr0qXsKmFvkVhOnKtORAYewvpGc9EBKP0pdi3ZV1jaJV6MKCNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiaryTests\\FoodDiaryTests.csproj",
+  "projectFilePath": "C:\\Users\\Lolitochka\\Desktop\\Projects\\FoodDiarySln\\FoodDiaryTests\\FoodDiaryTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lolitochka\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Lolitochka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
